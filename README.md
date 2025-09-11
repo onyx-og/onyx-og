@@ -18,7 +18,22 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql) 
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=figma)
-
+```mermaid
+mindmap
+  root((Me 👨‍💻))
+    Data
+      Management
+      Insights
+    Software
+      Fields
+        Retail
+        Management
+      Analysis
+      UI/UX
+    soft skills
+      Pragmatic
+      Innovative
+```
 
 
 ---
